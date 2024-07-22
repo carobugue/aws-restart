@@ -5,10 +5,14 @@
      /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
  ----------------------------------------------------------------- 
 
+# 🦸‍♀️ ¡Bienvenidos a la Zona de SuperPython! 🦸‍♂️
 
-Hi there! Welcome to AWS Cloud9!
+¡Hola, héroes del código! Soy **Carolina Bugueño**, y les doy la bienvenida a mi entorno de entrenamiento de Python en Cloud9, parte del épico programa **AWS re/Start** impartido por **Generation**. ¡Prepárense para una aventura llena de desafíos y descubrimientos! 🚀
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
+## 🗺️ Mapa del Tesoro
 
-Happy coding!
+Aquí encontrarás una serie de ejercicios básicos para que te conviertas en un maestro del Python. ¡Saca tu capa y tu teclado, y vamos a salvar el mundo del código!
+
+
+https://github.com/carobugue/aws-restart.git
+
